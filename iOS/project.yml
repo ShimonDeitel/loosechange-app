@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: LoosechangeTests
-      - path: Loosechange.storekit
     dependencies:
       - target: Loosechange
     settings:
